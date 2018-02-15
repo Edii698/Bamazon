@@ -12,7 +12,7 @@ The quantity will be removed from the inventory, and you will see your total.
 
 ![bamazonCustomerPic](Images/bamazonCustomerPic.jpg)
 
-## Bamazon Customer
+## Bamazon Manager
 
 View list on items in stock.
 View low stock inventory.
